@@ -6,7 +6,7 @@
  * This source code shows how to conduct separate compilation.
  *
  * How to compile using Makefile?
- * $make
+ * make
  *
  * How to manually compile?
  * g++ -c open.cpp
