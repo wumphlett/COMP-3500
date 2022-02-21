@@ -1,2 +1,3 @@
-# COMP-3500
-Auburn COMP-3500 Programs
+# COMP 3500
+COMP 3500 Programs  
+Introduction to Operating Systems
