@@ -6,13 +6,13 @@
  * This source code shows how to conduct separate compilation.
  *
  * How to compile using Makefile?
- * $make
+ * make
  *
  * How to manually compile?
- * $gcc -c open.c
- * $gcc -c read.c
- * $gcc -c print.c
- * $gcc open.o read.o print.o scheduler.c -o scheduler
+ * g++ -c open.cpp
+ * g++ -c read.cpp
+ * g++ -c stats.cpp
+ * g++ open.o read.o print.o scheduler.cpp -o scheduler
  * 
  * How to run?
  * ./scheduler <file-name> [FCFS|RR|SRFT] [time_quantum]
