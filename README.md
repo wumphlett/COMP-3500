@@ -16,7 +16,7 @@ All project specifications are located in `specs`
 
 ```
 
-    Total Views per Day from 2022-08-16 to 2022-10-11
+    Total Views per Day from 2022-08-16 to 2022-10-12
 
     Repository Views
   180.00  ┼                          ╭╮
@@ -33,9 +33,9 @@ All project specifications are located in `specs`
    48.00  ┤    ╭╮╭╮  ││╭╮          │   ╰╮││           ││ ╭╮│  │
    36.00  ┤    ││││ ╭╯│││          │    ╰╯│           ││ │││  │
    24.00  ┤╭─╮ │╰╯│╭╯ ││╰╮╭╮   ╭╮╭╮│      │   ╭╮     ╭╯│ │││  │
-   12.00  ┤│ ╰╮│  ╰╯  ╰╯ ╰╯╰╮╭─╯╰╯╰╯      ╰─╮ │╰╮    │ │ │││  ╰─╮
-    0.00  ┼╯  ╰╯            ╰╯              ╰─╯ ╰────╯ ╰─╯╰╯    ╰──
+   12.00  ┤│ ╰╮│  ╰╯  ╰╯ ╰╯╰╮╭─╯╰╯╰╯      ╰─╮ │╰╮    │ │ │││  ╰─╮ ╭╮
+    0.00  ┼╯  ╰╯            ╰╯              ╰─╯ ╰────╯ ╰─╯╰╯    ╰─╯╰
 
-    Chart last updated - Tue Oct 11 00:35:52 2022 UTC
+    Chart last updated - Wed Oct 12 00:46:46 2022 UTC
     
 ```
